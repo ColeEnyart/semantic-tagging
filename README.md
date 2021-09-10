@@ -10,4 +10,4 @@ Revised some existing HTML code to use semantic tags where appropriate. Updated 
 
 ## Link to Deployed Page
 
-[Here is a link to my deployed code: ](https://coleenyart.github.io/semantic-tagging/)
+[Horiseon Website](https://coleenyart.github.io/semantic-tagging/)
