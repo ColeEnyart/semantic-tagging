@@ -6,8 +6,8 @@ Revised some existing HTML code to use semantic tags where appropriate. Updated 
 
 ## Screen Shot
 
-![Here is a screen shot of the home page.](./assests/images/horiseon.png)
+<img src="./assets/images/horiseon.png" width="800" />
 
 ## Link to Deployed Page
 
-[Here is a link to my deployed code: ](#)
+[Here is a link to my deployed code: ](https://coleenyart.github.io/semantic-tagging/)
